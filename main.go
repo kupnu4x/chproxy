@@ -14,8 +14,8 @@ import (
 	"syscall"
 	"time"
 
-	"github.com/Vertamedia/chproxy/config"
-	"github.com/Vertamedia/chproxy/log"
+	"github.com/kupnu4x/chproxy/config"
+	"github.com/kupnu4x/chproxy/log"
 	"github.com/prometheus/client_golang/prometheus/promhttp"
 	"golang.org/x/crypto/acme/autocert"
 )

@@ -14,9 +14,9 @@ import (
 	"sync/atomic"
 	"time"
 
-	"github.com/Vertamedia/chproxy/cache"
-	"github.com/Vertamedia/chproxy/config"
-	"github.com/Vertamedia/chproxy/log"
+	"github.com/kupnu4x/chproxy/cache"
+	"github.com/kupnu4x/chproxy/config"
+	"github.com/kupnu4x/chproxy/log"
 	"github.com/prometheus/client_golang/prometheus"
 )
 

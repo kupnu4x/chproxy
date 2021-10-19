@@ -17,8 +17,8 @@ import (
 	"sync/atomic"
 	"time"
 
-	"github.com/Vertamedia/chproxy/config"
-	"github.com/Vertamedia/chproxy/log"
+	"github.com/kupnu4x/chproxy/config"
+	"github.com/kupnu4x/chproxy/log"
 )
 
 // cacheVersion must be increased with each backwads-incompatible change

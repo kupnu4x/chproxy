@@ -12,8 +12,8 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/Vertamedia/chproxy/chdecompressor"
-	"github.com/Vertamedia/chproxy/log"
+	"github.com/kupnu4x/chproxy/chdecompressor"
+	"github.com/kupnu4x/chproxy/log"
 )
 
 func respondWith(rw http.ResponseWriter, err error, status int) {
